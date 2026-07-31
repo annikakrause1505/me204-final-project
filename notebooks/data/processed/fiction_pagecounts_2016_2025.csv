@@ -35,9 +35,9 @@ key,title,author_name,first_publish_year,page_count
 /works/OL17623412W,Dog Man Unleashed,['Dav Pilkey'],2016,224.0
 /works/OL17349394W,The Bands of Mourning,['Brandon Sanderson'],2016,448.0
 /works/OL20824826W,A Thousand Boy Kisses,['Tillie Cole'],2016,352.0
+/works/OL19075624W,Nevernight,['Jay Kristoff'],2016,699.0
 /works/OL19347030W,Sleeping Giants,['Sylvain Neuvel'],2016,336.0
 /works/OL20037217W,Holding Up the Universe,['Jennifer Niven'],2016,400.0
-/works/OL19075624W,Nevernight,['Jay Kristoff'],2016,699.0
 /works/OL19675651W,A Winglets Collection,['Tui T. Sutherland'],2016,144.0
 /works/OL17357379W,All the Birds in the Sky,"['Charlie Jane Anders', 'Laurent Queyssi']",2016,351.0
 /works/OL19547201W,The Wild Robot Escapes,['Peter Brown'],2016,282.0
@@ -328,8 +328,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20019067W,City of blades,['Robert Jackson Bennett'],2016,484.0
 /works/OL20026987W,Royal wedding disaster,['Meg Cabot'],2016,282.0
 /works/OL20039432W,The twelve days of Dash & Lily,"['Rachel Cohn', 'David Levithan']",2016,240.0
-/works/OL21582333W,His Most Exquisite Conquest,"['Elizabeth Power', 'Cathy Williams', 'Robyn Donald']",2016,568.0
 /works/OL17629517W,Goosebumps Most Wanted - The Haunter,['Robert Lawrence Stine'],2016,160.0
+/works/OL21582333W,His Most Exquisite Conquest,"['Elizabeth Power', 'Cathy Williams', 'Robyn Donald']",2016,568.0
 /works/OL17357748W,Imagine Me Gone,['Adam Haslett'],2016,368.0
 /works/OL19346537W,The Ghostfaces,['John Flanagan'],2016,400.0
 /works/OL22321863W,Land of silence,['Tessa Afshar'],2016,400.0
@@ -473,9 +473,9 @@ key,title,author_name,first_publish_year,page_count
 /works/OL17714997W,Nightfall,['Shannon Messenger'],2017,800.0
 /works/OL18147673W,The Ship of the Dead,['Rick Riordan'],2017,439.0
 /works/OL19332006W,The Collapsing Empire (The Interdependency),['John Scalzi'],2017,336.0
+/works/OL19659793W,Children of Blood and Bone,['Tomi Adeyemi'],2017,552.0
 /works/OL17844203W,Dog Man and Cat Kid,"['Dav Pilkey', 'George Beard', 'Harold Hutchins', 'Jose Garibaldi']",2017,256.0
 /works/OL17762217W,Pachinko,['Min Jin Lee'],2017,512.0
-/works/OL19659793W,Children of Blood and Bone,['Tomi Adeyemi'],2017,552.0
 /works/OL19781733W,Eleanor Oliphant is Completely Fine,['Gail Honeyman'],2017,352.0
 /works/OL20054906W,If We Were Villains,['M. L. Rio'],2017,368.0
 /works/OL17710050W,The Dark Prophecy,['Rick Riordan'],2017,432.0
@@ -680,6 +680,7 @@ key,title,author_name,first_publish_year,page_count
 /works/OL19541804W,The Changeling,['Victor D. LaValle'],2017,440.0
 /works/OL20810850W,The innocent's shameful secret,['Sara Craven'],2017,224.0
 /works/OL20188485W,What the Hell Did I Just Read,['David Wong'],2017,384.0
+/works/OL20854299W,"Sister, sister",['Sue Fortin'],2017,360.0
 /works/OL19741986W,The Silent Companions,['Laura Purcell'],2017,343.0
 /works/OL20046506W,Devil in Spring,['Lisa Kleypas'],2017,384.0
 /works/OL21603882W,"Class A, The Graphic Novel","['Robert Muchamore', 'David Combet', 'Andrew Donkin', 'Baptiste Payen']",2017,128.0
@@ -782,8 +783,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20054720W,Count all her bones,['April Henry'],2017,227.0
 /works/OL17844202W,My Life is a Joke,"['James Patterson', 'Chris Grabenstein']",2017,342.0
 /works/OL20333428W,CatStronauts,['Drew Brockington'],2017,188.0
-/works/OL19817651W,What It Means When A Man Falls From The Sky: The most acclaimed short story collection of the year,['Lesley Nneka Arimah'],2017,240.0
 /works/OL20192760W,Small Great Things,['Jodi Picoult'],2017,625.0
+/works/OL19817651W,What It Means When A Man Falls From The Sky: The most acclaimed short story collection of the year,['Lesley Nneka Arimah'],2017,240.0
 /works/OL17834492W,The Losers Club,['Andrew Clements'],2017,248.0
 /works/OL19667629W,"Bluebird, bluebird","['Attica Locke', 'Attica Locke']",2017,320.0
 /works/OL19671639W,American Street,['Ibi Aanu Zoboi'],2017,324.0
@@ -795,8 +796,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL21597996W,From Sydney with Love,"['Kelly Hunter', 'Robyn Grady', 'Lindsay Armstrong']",2017,560.0
 /works/OL18185112W,Deep Freeze,['John Sandford'],2017,400.0
 /works/OL21606018W,When I Hit You,['Meena Kandasamy'],2017,256.0
-/works/OL17640679W,Escape to Australia,"['James Patterson', 'Martin Chatterton']",2017,257.0
 /works/OL19353452W,My Absolute Darling: A Novel,['Gabriel Tallent'],2017,432.0
+/works/OL17640679W,Escape to Australia,"['James Patterson', 'Martin Chatterton']",2017,257.0
 /works/OL18020388W,The Mistress,['Danielle Steel'],2017,323.0
 /works/OL19712309W,"Paper Girls, Vol. 3",['Brian K. Vaughan'],2017,128.0
 /works/OL19350653W,Where the World Ends,['Geraldine McCaughrean'],2017,336.0
@@ -847,8 +848,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20045215W,The you I've never known,['Ellen Hopkins'],2017,607.0
 /works/OL19737769W,Kill Creek,['Scott Thomas'],2017,414.0
 /works/OL19631174W,Dark Legacy,['Christine Feehan'],2017,413.0
-/works/OL25746093W,Forever Is a Lie,['Novoneel Chakraborty'],2017,288.0
 /works/OL19668385W,Ban this book,['Alan Gratz'],2017,256.0
+/works/OL25746093W,Forever Is a Lie,['Novoneel Chakraborty'],2017,288.0
 /works/OL19662285W,Past Perfect,['Danielle Steel'],2017,320.0
 /works/OL17621462W,Robot Revolution,['James Patterson'],2017,336.0
 /works/OL19712100W,How to disappear,['Sharon Huss Roat'],2017,389.0
@@ -856,8 +857,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20060104W,The love interest,['Cale Dietrich'],2017,381.0
 /works/OL19634995W,An Unkindness of Magicians,['Kat Howard'],2017,384.0
 /works/OL21357603W,His Merciless Marriage Bargain,['Jane Porter'],2017,192.0
-/works/OL20055662W,Never let you go,['Chevy Stevens'],2017,416.0
 /works/OL19670135W,Anything is possible,"['Elizabeth Strout', 'Esther Tallada Seco']",2017,280.0
+/works/OL20055662W,Never let you go,['Chevy Stevens'],2017,416.0
 /works/OL19342757W,Red Moon Rising,['Erin Hunter'],2017,300.0
 /works/OL19717894W,Eugenia Lincoln and the unexpected package,['Kate DiCamillo'],2017,100.0
 /works/OL24145323W,Viaggio in Messico,['Elisabetta Dami'],2017,224.0
@@ -873,6 +874,7 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20168420W,Her Every Fear,['Peter Swanson'],2017,384.0
 /works/OL19654066W,Typhoon fury,"['Clive Cussler', 'Boyd Morrison', 'Boyd Morrison']",2017,463.0
 /works/OL20165925W,The Silent Wife,['Kerry Fisher'],2017,360.0
+/works/OL19724208W,The kites,['Romain Gary'],2017,320.0
 /works/OL19342747W,Wayfarer,['Alexandra Bracken'],2017,544.0
 /works/OL19724205W,Infinite Stars,"['Bryan Thomas Schmidt', 'Robert Silverberg', 'Orson Scott Card', 'Brian Herbert', 'Kevin J. Anderson', 'William C. Dietz', 'Cordwainer Smith', 'Lois McMaster Bujold', 'Elizabeth Moon', 'Dave Bara', 'Catherine Asaro', 'Nnedi Okorafor', 'Larry Niven', 'Jerry Pournelle', 'Jean Johnson', 'Leigh Brackett', 'Edmond Hamilton', 'Jody Lynn Nye', 'Linda Nagata', 'Alastair Reynolds', 'Poul Anderson', 'A. C. Crispin', 'Bennett R. Coles', 'Anne McCaffrey', 'Charles E. Gannon', 'David Drake', 'Jack Campbell', 'David Weber']",2017,537.0
 /works/OL17633577W,Dangerous Games,['Danielle Steel'],2017,354.0
@@ -885,7 +887,6 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20211569W,Penance,['Kanae Minato'],2017,240.0
 /works/OL19720189W,Every breath you take,"['Mary Higgins Clark', 'Alafair Burke']",2017,400.0
 /works/OL20054306W,"April Fools', Mr. Todd!",['Megan McDonald'],2017,62.0
-/works/OL19724208W,The kites,['Romain Gary'],2017,320.0
 /works/OL20084244W,Zach King,['Zach King'],2017,208.0
 /works/OL19717763W,I am Alfonso Jones,['Tony Medina'],2017,176.0
 /works/OL19090917W,Wyoming Winter: An Anthology (Wyoming Men),['Diana Palmer'],2017,384.0
@@ -922,8 +923,6 @@ key,title,author_name,first_publish_year,page_count
 /works/OL19753057W,Every last lie,['Mary Kubica'],2017,384.0
 /works/OL19720526W,Burn for you,['J. T. Geissinger'],2017,335.0
 /works/OL21614721W,Sweetpea,['C. J. Skuse'],2017,400.0
-/works/OL21147325W,Bodyguard,['Chris Bradford'],2017,336.0
-/works/OL21301901W,Tell Me What You Want,"['Megan Maxwell', 'Achy Obejas']",2017,412.0
 /works/OL19096402W,The Silent Patient,['Alex Michaelides'],2018,352.0
 /works/OL17850410W,The Cruel Prince,['Holly Black'],2018,370.0
 /works/OL20068530W,Verity,['Colleen Hoover'],2018,343.0
@@ -1082,6 +1081,7 @@ key,title,author_name,first_publish_year,page_count
 /works/OL27916409W,Game Changer,['Rachel Reid'],2018,356.0
 /works/OL21629205W,Mortal Instruments,"['Cassandra Clare', 'Cassandra Jean']",2018,192.0
 /works/OL20085413W,Dog Man,['Dav Pilkey'],2018,240.0
+/works/OL19760788W,The House with Chicken Legs,['Sophie Anderson'],2018,267.0
 /works/OL19745593W,The book of M,['Peng Shepherd'],2018,485.0
 /works/OL21201659W,Queen of Air and Darkness,['Cassandra Clare'],2018,896.0
 /works/OL19761973W,Wrath of the Dragon King,['Brandon Mull'],2018,410.0
@@ -1090,7 +1090,6 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20468901W,This Lie Will Kill You,['Chelsea Pitcher'],2018,320.0
 /works/OL19739260W,Bring Me Back,['B.A. Paris'],2018,304.0
 /works/OL19650128W,The Last,['Katherine Applegate'],2018,400.0
-/works/OL19760788W,The House with Chicken Legs,['Sophie Anderson'],2018,267.0
 /works/OL19668644W,The Penderwicks at last,"['Jeanne Birdsall', 'Susan Denaker']",2018,304.0
 /works/OL18190193W,Legion--The Many Lives of Stephen Leeds,['Brandon Sanderson'],2018,352.0
 /works/OL20670981W,Calling Sehmat,['Harinder Sikka'],2018,256.0
@@ -1232,6 +1231,7 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20438019W,Be Prepared,['Vera Brosgol'],2018,256.0
 /works/OL19795454W,The Sentence is Death,['Anthony Horowitz'],2018,384.0
 /works/OL19734244W,After the shot drops,['Randy Ribay'],2018,336.0
+/works/OL19732596W,Every Note Played,['Lisa Genova'],2018,320.0
 /works/OL19740639W,Scourged,['Kevin Hearne'],2018,302.0
 /works/OL17928064W,Gravity Falls,['Alex Hirsch'],2018,144.0
 /works/OL19749328W,Dark Sentinel,['Christine Feehan'],2018,416.0
@@ -1340,8 +1340,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL19738900W,Ash Princess,['Laura Sebastian'],2018,437.0
 /works/OL20148706W,Dead Men's Trousers,['Irvine Welsh'],2018,384.0
 /works/OL18020265W,Star Wars Episode VIII - The Last Jedi,['Jason Fry'],2018,374.0
-/works/OL21849738W,Girl in the Locked Room,['Mary Downing Hahn'],2018,200.0
 /works/OL19666197W,Wundersmith,['Jessica Townsend'],2018,560.0
+/works/OL21849738W,Girl in the Locked Room,['Mary Downing Hahn'],2018,200.0
 /works/OL19765044W,The armored saint,['Myke Cole'],2018,208.0
 /works/OL19747163W,Escape From Shudder Mansion,['Robert Lawrence Stine'],2018,136.0
 /works/OL32365577W,Canção para ninar menino grande,['Maria da Conceição Evaristo de Brito'],2018,125.0
@@ -1378,15 +1378,14 @@ key,title,author_name,first_publish_year,page_count
 /works/OL21137550W,George and the Ship of Time,"['Stephen Hawking', 'Lucy Hawking']",2018,416.0
 /works/OL19761888W,Beauchamp Hall,['Danielle Steel'],2018,336.0
 /works/OL19752380W,"Check, Please! Book 1",['Ngozi Ukazu'],2018,264.0
-/works/OL19749367W,Timeless,['R. A. Salvatore'],2018,415.0
 /works/OL20090688W,"Red, White & Royal Blue",['Casey McQuiston'],2019,440.0
 /works/OL20646061W,A Good Girl's Guide to Murder,['Holly Jackson'],2019,431.0
 /works/OL18543708W,The Wicked King,['Holly Black'],2019,332.0
-/works/OL20485895W,The Queen of Nothing,['Holly Black'],2019,336.0
 /works/OL20465177W,Wrecking Ball,['Jeff Kinney'],2019,220.0
 /works/OL19922194W,Daisy Jones & The Six,['Taylor Jenkins Reid'],2019,400.0
 /works/OL20883297W,Klara and the Sun,['Kazuo Ishiguro'],2019,334.0
 /works/OL20145719W,Defy Me (Shatter Me),['Tahereh Mafi'],2019,376.0
+/works/OL20485895W,The Queen of Nothing,['Holly Black'],2019,336.0
 /works/OL20650912W,House of Earth and Blood,['Sarah J. Maas'],2019,805.0
 /works/OL19859295W,This is How You Lose the Time War,"['Amal El-Mohtar', 'Max Gladstone']",2019,208.0
 /works/OL20073906W,Recursion,['Blake Crouch'],2019,352.0
@@ -1735,15 +1734,15 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20781734W,Here and Now and Then,['Mike Chen'],2019,339.0
 /works/OL20159448W,The Lost Girls of Paris,['Pam Jenoff'],2019,384.0
 /works/OL20812914W,How Not to Die Alone,['Richard Roper'],2019,336.0
-/works/OL20134730W,Elevator Pitch,['Linwood Barclay'],2019,464.0
 /works/OL20073071W,The Inn,"['James Patterson', 'Candice Fox']",2019,384.0
+/works/OL20134730W,Elevator Pitch,['Linwood Barclay'],2019,464.0
 /works/OL20152825W,The Luminous Dead,['Caitlin Starling'],2019,432.0
 /works/OL20072057W,Conviction,['Denise Mina'],2019,384.0
 /works/OL20074995W,Outfox,['Sandra Brown'],2019,448.0
 /works/OL20153367W,To Night Owl From Dogfish,"['Holly Goldberg Sloan', 'Meg Wolitzer']",2019,304.0
 /works/OL21162933W,The Mother-In-Law,['Sally Hepworth'],2019,352.0
-/works/OL20438880W,Roll with It,['Jamie Sumner'],2019,250.0
 /works/OL20148833W,Kiss Number 8,['Colleen AF Venable'],2019,320.0
+/works/OL20438880W,Roll with It,['Jamie Sumner'],2019,250.0
 /works/OL20120877W,Dark Illusion,['Christine Feehan'],2019,432.0
 /works/OL20639273W,Pokko and the Drum,"['Matthew Forsythe', 'Anna Llisterri', 'Alexis Romay', 'Matthew Forsythe']",2019,56.0
 /works/OL20483602W,Star Wars - Resistance Reborn,['Rebecca Roanhorse'],2019,360.0
@@ -2033,8 +2032,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20734491W,The Henna Wars,['Adiba Jaigirdar'],2020,400.0
 /works/OL20745722W,Raybearer,['Jordan Ifueko'],2020,384.0
 /works/OL20830435W,The Trouble with Hating You,['Sajni Patel'],2020,352.0
-/works/OL20873362W,28 Summers,['Elin Hilderbrand'],2020,472.0
 /works/OL20660519W,Hollowpox the hunt for Morrigan crow,['Jessica Townsend'],2020,392.0
+/works/OL20873362W,28 Summers,['Elin Hilderbrand'],2020,472.0
 /works/OL20644306W,Weather,['Jenny Offill'],2020,224.0
 /works/OL20814012W,All the Devils Are Here,"['Louise Penny', 'Robert Bathurst']",2020,448.0
 /works/OL20663351W,Masked Prey,['John Sandford'],2020,416.0
@@ -2267,8 +2266,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL20847803W,Alpha Night,"['Nalini Singh', 'Angela Dawe']",2020,400.0
 /works/OL20811145W,Queen of Storms,['Raymond E. Feist'],2020,437.0
 /works/OL21679910W,Lies Like Poison,['Chelsea Pitcher'],2020,304.0
-/works/OL20755966W,The Silvered Serpents,['Roshani Chokshi'],2020,432.0
 /works/OL20913884W,Red Pill,['Hari Kunzru'],2020,304.0
+/works/OL20755966W,The Silvered Serpents,['Roshani Chokshi'],2020,432.0
 /works/OL21164754W,You Had Me at Hola,['Alexis Daria'],2020,193.0
 /works/OL21148174W,Sucker Punch,['Laurell K. Hamilton'],2020,512.0
 /works/OL20757578W,When Stars Are Scattered,['Victoria Jamieson'],2020,264.0
@@ -2320,7 +2319,7 @@ key,title,author_name,first_publish_year,page_count
 /works/OL22163248W,The Night Will Find Us,['Matthew Lyons'],2020,324.0
 /works/OL20696438W,Baloney and Friends,['Greg Pizzoli'],2020,96.0
 /works/OL20651927W,Anna K,['Jenny Lee'],2020,400.0
-/works/OL20800241W,Instant Karma,['Marissa Meyer'],2020,400.0
+/works/OL21685700W,Girl A,['Abigail Dean'],2020,352.0
 /works/OL27310398W,Haunting Adeline,['H. D. Carlton'],2021,615.0
 /works/OL21745884W,Project Hail Mary,['Andy Weir'],2021,496.0
 /works/OL24390422W,Twisted Love,['Ana Huang'],2021,358.0
@@ -2648,8 +2647,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL24512841W,Summer Sons,['Lee Mandelo'],2021,360.0
 /works/OL24209539W,The Secret Keeper of Jaipur,['Alka Joshi'],2021,400.0
 /works/OL21544475W,When the Stars Go Dark,['Paula McLain'],2021,384.0
-/works/OL24229192W,The Lion of Mars,['Jennifer L. Holm'],2021,272.0
 /works/OL21964323W,2034,"['Elliot Ackerman', 'James Stavridis']",2021,234.0
+/works/OL24229192W,The Lion of Mars,['Jennifer L. Holm'],2021,272.0
 /works/OL24209596W,State of Terror,['Hillary Rodham Clinton'],2021,512.0
 /works/OL21910832W,Rescue,['Jennifer A. Nielsen'],2021,400.0
 /works/OL21910831W,Good As Gold (Whatever After #14),['Sarah Mlynowski'],2021,176.0
@@ -2784,7 +2783,7 @@ key,title,author_name,first_publish_year,page_count
 /works/OL25452414W,As If on Cue,['Marisa Kanter'],2021,400.0
 /works/OL20830802W,The Project,['Courtney Summers'],2021,320.0
 /works/OL24211830W,Witches Steeped in Gold,['Ciannon Smart'],2021,560.0
-/works/OL21666441W,Boy Who Made Everyone Laugh,['Helen Rutter'],2021,308.0
+/works/OL24498013W,Viral,"['Robin Cook', 'Scott Brick']",2021,432.0
 /works/OL28744393W,King of Wrath,['Ana Huang'],2022,456.0
 /works/OL27729743W,The Housemaid,['Freida McFadden'],2022,336.0
 /works/OL27733867W,It Starts with Us,['Colleen Hoover'],2022,352.0
@@ -3683,10 +3682,10 @@ key,title,author_name,first_publish_year,page_count
 /works/OL42407794W,Mina vänner,['Fredrik Backman'],2025,436.0
 /works/OL43548572W,Problematic Summer Romance,['Ali Hazelwood'],2025,402.0
 /works/OL42401589W,The Tenant,['Freida McFadden'],2025,322.0
+/works/OL42428586W,The River Is Waiting,['Wally Lamb'],2025,451.0
 /works/OL42424992W,Wild Dark Shore,['Charlotte McConaghy'],2025,320.0
 /works/OL42419161W,Bury Our Bones in the Midnight Soil,['V. E. Schwab'],2025,544.0
 /works/OL42394591W,The Emperor of Gladness,['Ocean Vuong'],2025,416.0
-/works/OL42428586W,The River Is Waiting,['Wally Lamb'],2025,451.0
 /works/OL42402317W,Rebel Witch,['Kristen Ciccarelli'],2025,464.0
 /works/OL42414694W,The Correspondent,['Virginia Evans'],2025,360.0
 /works/OL42406530W,The Names,['Florence Knapp'],2025,352.0
@@ -3749,8 +3748,8 @@ key,title,author_name,first_publish_year,page_count
 /works/OL42402511W,Cruel Is the Light,['Sophie Clark'],2025,512.0
 /works/OL42443323W,Stone and Sky,['Ben Aaronovitch'],2025,304.0
 /works/OL42429107W,Perfect Divorce,['Jeneva Rose'],2025,288.0
-/works/OL44039764W,The infinite glade,['James Dashner'],2025,264.0
 /works/OL42426895W,Woodworking,['Emily St James'],2025,368.0
+/works/OL44039764W,The infinite glade,['James Dashner'],2025,264.0
 /works/OL42393686W,Kids in Mrs. Z's Class,"['Kekla Magoon', 'Kat Fajardo', 'Kate Messner']",2025,128.0
 /works/OL44084313W,What We Can Know,['Ian McEwan'],2025,320.0
 /works/OL42313816W,The Nightblood Prince,['Molly X. Chang'],2025,384.0

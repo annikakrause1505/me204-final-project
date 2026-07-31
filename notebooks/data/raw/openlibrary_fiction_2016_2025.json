@@ -1076,6 +1076,39 @@
   },
   {
     "author_name": [
+      "Jay Kristoff"
+    ],
+    "edition_key": [
+      "OL47130506M",
+      "OL47106876M",
+      "OL35376097M",
+      "OL32166951M",
+      "OL30760754M",
+      "OL30786089M",
+      "OL30786090M",
+      "OL30696014M",
+      "OL28201062M",
+      "OL37042098M",
+      "OL26795645M",
+      "OL26771557M",
+      "OL52570325M",
+      "OL39484548M",
+      "OL36105288M",
+      "OL37258374M",
+      "OL37263522M",
+      "OL37433263M",
+      "OL26953425M",
+      "OL27702633M",
+      "OL28144562M",
+      "OL26733109M"
+    ],
+    "first_publish_year": 2016,
+    "key": "/works/OL19075624W",
+    "number_of_pages_median": 699,
+    "title": "Nevernight"
+  },
+  {
+    "author_name": [
       "Sylvain Neuvel"
     ],
     "edition_key": [
@@ -1124,39 +1157,6 @@
     "key": "/works/OL20037217W",
     "number_of_pages_median": 400,
     "title": "Holding Up the Universe"
-  },
-  {
-    "author_name": [
-      "Jay Kristoff"
-    ],
-    "edition_key": [
-      "OL47130506M",
-      "OL47106876M",
-      "OL35376097M",
-      "OL32166951M",
-      "OL30760754M",
-      "OL30786089M",
-      "OL30786090M",
-      "OL30696014M",
-      "OL28201062M",
-      "OL37042098M",
-      "OL26795645M",
-      "OL26771557M",
-      "OL52570325M",
-      "OL39484548M",
-      "OL36105288M",
-      "OL37258374M",
-      "OL37263522M",
-      "OL37433263M",
-      "OL26953425M",
-      "OL27702633M",
-      "OL28144562M",
-      "OL26733109M"
-    ],
-    "first_publish_year": 2016,
-    "key": "/works/OL19075624W",
-    "number_of_pages_median": 699,
-    "title": "Nevernight"
   },
   {
     "author_name": [
@@ -7144,21 +7144,6 @@
   },
   {
     "author_name": [
-      "Elizabeth Power",
-      "Cathy Williams",
-      "Robyn Donald"
-    ],
-    "edition_key": [
-      "OL29299369M",
-      "OL29298455M"
-    ],
-    "first_publish_year": 2016,
-    "key": "/works/OL21582333W",
-    "number_of_pages_median": 568,
-    "title": "His Most Exquisite Conquest"
-  },
-  {
-    "author_name": [
       "Robert Lawrence Stine"
     ],
     "edition_key": [
@@ -7171,6 +7156,21 @@
     "key": "/works/OL17629517W",
     "number_of_pages_median": 160,
     "title": "Goosebumps Most Wanted - The Haunter"
+  },
+  {
+    "author_name": [
+      "Elizabeth Power",
+      "Cathy Williams",
+      "Robyn Donald"
+    ],
+    "edition_key": [
+      "OL29299369M",
+      "OL29298455M"
+    ],
+    "first_publish_year": 2016,
+    "key": "/works/OL21582333W",
+    "number_of_pages_median": 568,
+    "title": "His Most Exquisite Conquest"
   },
   {
     "author_name": [
@@ -10293,6 +10293,37 @@
   },
   {
     "author_name": [
+      "Tomi Adeyemi"
+    ],
+    "edition_key": [
+      "OL53319630M",
+      "OL29791898M",
+      "OL39215616M",
+      "OL37679560M",
+      "OL32203113M",
+      "OL43343525M",
+      "OL35949405M",
+      "OL30110042M",
+      "OL28337754M",
+      "OL30521959M",
+      "OL33644740M",
+      "OL34226525M",
+      "OL34400512M",
+      "OL35959830M",
+      "OL27096952M",
+      "OL27946462M",
+      "OL26986322M",
+      "OL26946768M",
+      "OL27096953M",
+      "OL26879357M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL19659793W",
+    "number_of_pages_median": 552,
+    "title": "Children of Blood and Bone"
+  },
+  {
+    "author_name": [
       "Dav Pilkey",
       "George Beard",
       "Harold Hutchins",
@@ -10349,37 +10380,6 @@
     "key": "/works/OL17762217W",
     "number_of_pages_median": 512,
     "title": "Pachinko"
-  },
-  {
-    "author_name": [
-      "Tomi Adeyemi"
-    ],
-    "edition_key": [
-      "OL53319630M",
-      "OL29791898M",
-      "OL39215616M",
-      "OL37679560M",
-      "OL32203113M",
-      "OL43343525M",
-      "OL35949405M",
-      "OL30110042M",
-      "OL28337754M",
-      "OL30521959M",
-      "OL33644740M",
-      "OL34226525M",
-      "OL34400512M",
-      "OL35959830M",
-      "OL27096952M",
-      "OL27946462M",
-      "OL26986322M",
-      "OL26946768M",
-      "OL27096953M",
-      "OL26879357M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL19659793W",
-    "number_of_pages_median": 552,
-    "title": "Children of Blood and Bone"
   },
   {
     "author_name": [
@@ -12763,6 +12763,23 @@
   },
   {
     "author_name": [
+      "Ben Clanton"
+    ],
+    "edition_key": [
+      "OL39540299M",
+      "OL39541182M",
+      "OL35269389M",
+      "OL27724709M",
+      "OL27378966M",
+      "OL26796285M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL19338748W",
+    "number_of_pages_median": 32,
+    "title": "Boo Who?"
+  },
+  {
+    "author_name": [
       "\u6709\u5ddd\u3072\u308d"
     ],
     "edition_key": [
@@ -13150,19 +13167,6 @@
   },
   {
     "author_name": [
-      "\u5218\u6148\u6b23",
-      "Ken Liu",
-      "Joel Martinsen"
-    ],
-    "edition_key": [
-      "OL36327337M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL26796577W",
-    "title": "Three-Body Problem Series"
-  },
-  {
-    "author_name": [
       "Isabelle Ronin"
     ],
     "edition_key": [
@@ -13173,6 +13177,19 @@
     "key": "/works/OL19716870W",
     "number_of_pages_median": 395,
     "title": "Chasing Red"
+  },
+  {
+    "author_name": [
+      "\u5218\u6148\u6b23",
+      "Ken Liu",
+      "Joel Martinsen"
+    ],
+    "edition_key": [
+      "OL36327337M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL26796577W",
+    "title": "Three-Body Problem Series"
   },
   {
     "author_name": [
@@ -14884,6 +14901,23 @@
     "key": "/works/OL20188485W",
     "number_of_pages_median": 384,
     "title": "What the Hell Did I Just Read"
+  },
+  {
+    "author_name": [
+      "Sue Fortin"
+    ],
+    "edition_key": [
+      "OL37332357M",
+      "OL35538226M",
+      "OL35281642M",
+      "OL32869851M",
+      "OL29814425M",
+      "OL28235730M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL20854299W",
+    "number_of_pages_median": 360,
+    "title": "Sister, sister"
   },
   {
     "author_name": [
@@ -16865,20 +16899,6 @@
   },
   {
     "author_name": [
-      "Lesley Nneka Arimah"
-    ],
-    "edition_key": [
-      "OL27232487M",
-      "OL27379780M",
-      "OL27012899M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL19817651W",
-    "number_of_pages_median": 240,
-    "title": "What It Means When A Man Falls From The Sky: The most acclaimed short story collection of the year"
-  },
-  {
-    "author_name": [
       "Jodi Picoult"
     ],
     "edition_key": [
@@ -16890,6 +16910,20 @@
     "key": "/works/OL20192760W",
     "number_of_pages_median": 625,
     "title": "Small Great Things"
+  },
+  {
+    "author_name": [
+      "Lesley Nneka Arimah"
+    ],
+    "edition_key": [
+      "OL27232487M",
+      "OL27379780M",
+      "OL27012899M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL19817651W",
+    "number_of_pages_median": 240,
+    "title": "What It Means When A Man Falls From The Sky: The most acclaimed short story collection of the year"
   },
   {
     "author_name": [
@@ -17097,27 +17131,6 @@
   },
   {
     "author_name": [
-      "James Patterson",
-      "Martin Chatterton"
-    ],
-    "edition_key": [
-      "OL53338440M",
-      "OL36319674M",
-      "OL40313788M",
-      "OL38301224M",
-      "OL34542246M",
-      "OL34542313M",
-      "OL27229442M",
-      "OL27399672M",
-      "OL26246399M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL17640679W",
-    "number_of_pages_median": 257,
-    "title": "Escape to Australia"
-  },
-  {
-    "author_name": [
       "Gabriel Tallent"
     ],
     "edition_key": [
@@ -17137,6 +17150,27 @@
     "key": "/works/OL19353452W",
     "number_of_pages_median": 432,
     "title": "My Absolute Darling: A Novel"
+  },
+  {
+    "author_name": [
+      "James Patterson",
+      "Martin Chatterton"
+    ],
+    "edition_key": [
+      "OL53338440M",
+      "OL36319674M",
+      "OL40313788M",
+      "OL38301224M",
+      "OL34542246M",
+      "OL34542313M",
+      "OL27229442M",
+      "OL27399672M",
+      "OL26246399M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL17640679W",
+    "number_of_pages_median": 257,
+    "title": "Escape to Australia"
   },
   {
     "author_name": [
@@ -17993,18 +18027,6 @@
   },
   {
     "author_name": [
-      "Novoneel Chakraborty"
-    ],
-    "edition_key": [
-      "OL34641535M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL25746093W",
-    "number_of_pages_median": 288,
-    "title": "Forever Is a Lie"
-  },
-  {
-    "author_name": [
       "Alan Gratz"
     ],
     "edition_key": [
@@ -18015,6 +18037,18 @@
     "key": "/works/OL19668385W",
     "number_of_pages_median": 256,
     "title": "Ban this book"
+  },
+  {
+    "author_name": [
+      "Novoneel Chakraborty"
+    ],
+    "edition_key": [
+      "OL34641535M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL25746093W",
+    "number_of_pages_median": 288,
+    "title": "Forever Is a Lie"
   },
   {
     "author_name": [
@@ -18158,26 +18192,6 @@
   },
   {
     "author_name": [
-      "Chevy Stevens"
-    ],
-    "edition_key": [
-      "OL28847201M",
-      "OL30341537M",
-      "OL33631156M",
-      "OL29340056M",
-      "OL29746746M",
-      "OL28184982M",
-      "OL27372286M",
-      "OL27235676M",
-      "OL34637192M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL20055662W",
-    "number_of_pages_median": 416,
-    "title": "Never let you go"
-  },
-  {
-    "author_name": [
       "Elizabeth Strout",
       "Esther Tallada Seco"
     ],
@@ -18200,6 +18214,26 @@
     "key": "/works/OL19670135W",
     "number_of_pages_median": 280,
     "title": "Anything is possible"
+  },
+  {
+    "author_name": [
+      "Chevy Stevens"
+    ],
+    "edition_key": [
+      "OL28847201M",
+      "OL30341537M",
+      "OL33631156M",
+      "OL29340056M",
+      "OL29746746M",
+      "OL28184982M",
+      "OL27372286M",
+      "OL27235676M",
+      "OL34637192M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL20055662W",
+    "number_of_pages_median": 416,
+    "title": "Never let you go"
   },
   {
     "author_name": [
@@ -18470,6 +18504,22 @@
     "key": "/works/OL20165925W",
     "number_of_pages_median": 360,
     "title": "The Silent Wife"
+  },
+  {
+    "author_name": [
+      "Romain Gary"
+    ],
+    "edition_key": [
+      "OL30586534M",
+      "OL29407491M",
+      "OL29374437M",
+      "OL28939597M",
+      "OL26937328M"
+    ],
+    "first_publish_year": 2017,
+    "key": "/works/OL19724208W",
+    "number_of_pages_median": 320,
+    "title": "The kites"
   },
   {
     "author_name": [
@@ -18790,22 +18840,6 @@
     "key": "/works/OL20054306W",
     "number_of_pages_median": 62,
     "title": "April Fools', Mr. Todd!"
-  },
-  {
-    "author_name": [
-      "Romain Gary"
-    ],
-    "edition_key": [
-      "OL30586534M",
-      "OL29407491M",
-      "OL29374437M",
-      "OL28939597M",
-      "OL26937328M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL19724208W",
-    "number_of_pages_median": 320,
-    "title": "The kites"
   },
   {
     "author_name": [
@@ -19569,33 +19603,6 @@
     "key": "/works/OL21614721W",
     "number_of_pages_median": 400,
     "title": "Sweetpea"
-  },
-  {
-    "author_name": [
-      "Chris Bradford"
-    ],
-    "edition_key": [
-      "OL28628195M",
-      "OL33872676M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL21147325W",
-    "number_of_pages_median": 336,
-    "title": "Bodyguard"
-  },
-  {
-    "author_name": [
-      "Megan Maxwell",
-      "Achy Obejas"
-    ],
-    "edition_key": [
-      "OL32841077M",
-      "OL28844467M"
-    ],
-    "first_publish_year": 2017,
-    "key": "/works/OL21301901W",
-    "number_of_pages_median": 412,
-    "title": "Tell Me What You Want"
   },
   {
     "author_name": [
@@ -23250,6 +23257,22 @@
   },
   {
     "author_name": [
+      "Sophie Anderson"
+    ],
+    "edition_key": [
+      "OL41618334M",
+      "OL38384637M",
+      "OL27962801M",
+      "OL27831470M",
+      "OL26973797M"
+    ],
+    "first_publish_year": 2018,
+    "key": "/works/OL19760788W",
+    "number_of_pages_median": 267,
+    "title": "The House with Chicken Legs"
+  },
+  {
+    "author_name": [
       "Peng Shepherd"
     ],
     "edition_key": [
@@ -23417,22 +23440,6 @@
     "key": "/works/OL19650128W",
     "number_of_pages_median": 400,
     "title": "The Last"
-  },
-  {
-    "author_name": [
-      "Sophie Anderson"
-    ],
-    "edition_key": [
-      "OL38384637M",
-      "OL41618334M",
-      "OL27831470M",
-      "OL27962801M",
-      "OL26973797M"
-    ],
-    "first_publish_year": 2018,
-    "key": "/works/OL19760788W",
-    "number_of_pages_median": 267,
-    "title": "The House with Chicken Legs"
   },
   {
     "author_name": [
@@ -26228,6 +26235,29 @@
   },
   {
     "author_name": [
+      "Lisa Genova"
+    ],
+    "edition_key": [
+      "OL34913969M",
+      "OL35528021M",
+      "OL35533310M",
+      "OL35549035M",
+      "OL40878009M",
+      "OL26960464M",
+      "OL27338719M",
+      "OL27342482M",
+      "OL29773630M",
+      "OL30599158M",
+      "OL26952056M",
+      "OL26945692M"
+    ],
+    "first_publish_year": 2018,
+    "key": "/works/OL19732596W",
+    "number_of_pages_median": 320,
+    "title": "Every Note Played"
+  },
+  {
+    "author_name": [
       "Kevin Hearne"
     ],
     "edition_key": [
@@ -28408,18 +28438,6 @@
   },
   {
     "author_name": [
-      "Mary Downing Hahn"
-    ],
-    "edition_key": [
-      "OL29786034M"
-    ],
-    "first_publish_year": 2018,
-    "key": "/works/OL21849738W",
-    "number_of_pages_median": 200,
-    "title": "Girl in the Locked Room"
-  },
-  {
-    "author_name": [
       "Jessica Townsend"
     ],
     "edition_key": [
@@ -28430,6 +28448,18 @@
     "key": "/works/OL19666197W",
     "number_of_pages_median": 560,
     "title": "Wundersmith"
+  },
+  {
+    "author_name": [
+      "Mary Downing Hahn"
+    ],
+    "edition_key": [
+      "OL29786034M"
+    ],
+    "first_publish_year": 2018,
+    "key": "/works/OL21849738W",
+    "number_of_pages_median": 200,
+    "title": "Girl in the Locked Room"
   },
   {
     "author_name": [
@@ -29135,22 +29165,6 @@
   },
   {
     "author_name": [
-      "R. A. Salvatore"
-    ],
-    "edition_key": [
-      "OL51632072M",
-      "OL37279269M",
-      "OL33881678M",
-      "OL27333165M",
-      "OL26962417M"
-    ],
-    "first_publish_year": 2018,
-    "key": "/works/OL19749367W",
-    "number_of_pages_median": 415,
-    "title": "Timeless"
-  },
-  {
-    "author_name": [
       "Casey McQuiston"
     ],
     "edition_key": [
@@ -29262,26 +29276,6 @@
     "key": "/works/OL18543708W",
     "number_of_pages_median": 332,
     "title": "The Wicked King"
-  },
-  {
-    "author_name": [
-      "Holly Black"
-    ],
-    "edition_key": [
-      "OL41739016M",
-      "OL39655253M",
-      "OL38522227M",
-      "OL33804730M",
-      "OL29250218M",
-      "OL29590093M",
-      "OL29862704M",
-      "OL30643500M",
-      "OL27716522M"
-    ],
-    "first_publish_year": 2019,
-    "key": "/works/OL20485895W",
-    "number_of_pages_median": 336,
-    "title": "The Queen of Nothing"
   },
   {
     "author_name": [
@@ -29434,6 +29428,26 @@
     "key": "/works/OL20145719W",
     "number_of_pages_median": 376,
     "title": "Defy Me (Shatter Me)"
+  },
+  {
+    "author_name": [
+      "Holly Black"
+    ],
+    "edition_key": [
+      "OL41739016M",
+      "OL39655253M",
+      "OL38522227M",
+      "OL33804730M",
+      "OL29250218M",
+      "OL29590093M",
+      "OL29862704M",
+      "OL30643500M",
+      "OL27716522M"
+    ],
+    "first_publish_year": 2019,
+    "key": "/works/OL20485895W",
+    "number_of_pages_median": 336,
+    "title": "The Queen of Nothing"
   },
   {
     "author_name": [
@@ -36680,6 +36694,32 @@
   },
   {
     "author_name": [
+      "James Patterson",
+      "Candice Fox"
+    ],
+    "edition_key": [
+      "OL40302400M",
+      "OL29442318M",
+      "OL29448242M",
+      "OL46539999M",
+      "OL27950480M",
+      "OL27259373M",
+      "OL29417924M",
+      "OL35723605M",
+      "OL34743430M",
+      "OL28724119M",
+      "OL27301209M",
+      "OL29804567M",
+      "OL29887918M",
+      "OL27253080M"
+    ],
+    "first_publish_year": 2019,
+    "key": "/works/OL20073071W",
+    "number_of_pages_median": 384,
+    "title": "The Inn"
+  },
+  {
+    "author_name": [
       "Linwood Barclay"
     ],
     "edition_key": [
@@ -36706,32 +36746,6 @@
     "key": "/works/OL20134730W",
     "number_of_pages_median": 464,
     "title": "Elevator Pitch"
-  },
-  {
-    "author_name": [
-      "James Patterson",
-      "Candice Fox"
-    ],
-    "edition_key": [
-      "OL40302400M",
-      "OL29442318M",
-      "OL29448242M",
-      "OL46539999M",
-      "OL27950480M",
-      "OL27259373M",
-      "OL29417924M",
-      "OL35723605M",
-      "OL34743430M",
-      "OL28724119M",
-      "OL27301209M",
-      "OL29804567M",
-      "OL29887918M",
-      "OL27253080M"
-    ],
-    "first_publish_year": 2019,
-    "key": "/works/OL20073071W",
-    "number_of_pages_median": 384,
-    "title": "The Inn"
   },
   {
     "author_name": [
@@ -36843,6 +36857,20 @@
   },
   {
     "author_name": [
+      "Colleen AF Venable"
+    ],
+    "edition_key": [
+      "OL27337780M",
+      "OL27328491M",
+      "OL48124370M"
+    ],
+    "first_publish_year": 2019,
+    "key": "/works/OL20148833W",
+    "number_of_pages_median": 320,
+    "title": "Kiss Number 8"
+  },
+  {
+    "author_name": [
       "Jamie Sumner"
     ],
     "edition_key": [
@@ -36859,20 +36887,6 @@
     "key": "/works/OL20438880W",
     "number_of_pages_median": 250,
     "title": "Roll with It"
-  },
-  {
-    "author_name": [
-      "Colleen AF Venable"
-    ],
-    "edition_key": [
-      "OL27337780M",
-      "OL27328491M",
-      "OL48124370M"
-    ],
-    "first_publish_year": 2019,
-    "key": "/works/OL20148833W",
-    "number_of_pages_median": 320,
-    "title": "Kiss Number 8"
   },
   {
     "author_name": [
@@ -38295,23 +38309,6 @@
   },
   {
     "author_name": [
-      "Jonathan Stutzman"
-    ],
-    "edition_key": [
-      "OL29497164M",
-      "OL35973389M",
-      "OL27339481M",
-      "OL35970288M",
-      "OL28300507M",
-      "OL35967212M"
-    ],
-    "first_publish_year": 2019,
-    "key": "/works/OL20158549W",
-    "number_of_pages_median": 48,
-    "title": "Tiny T. Rex and the Impossible Hug"
-  },
-  {
-    "author_name": [
       "James Patterson",
       "Max DiLallo"
     ],
@@ -38336,6 +38333,23 @@
     "key": "/works/OL19865381W",
     "number_of_pages_median": 400,
     "title": "The Chef"
+  },
+  {
+    "author_name": [
+      "Jonathan Stutzman"
+    ],
+    "edition_key": [
+      "OL29497164M",
+      "OL35973389M",
+      "OL27339481M",
+      "OL35970288M",
+      "OL28300507M",
+      "OL35967212M"
+    ],
+    "first_publish_year": 2019,
+    "key": "/works/OL20158549W",
+    "number_of_pages_median": 48,
+    "title": "Tiny T. Rex and the Impossible Hug"
   },
   {
     "author_name": [
@@ -42831,21 +42845,6 @@
   },
   {
     "author_name": [
-      "Elin Hilderbrand"
-    ],
-    "edition_key": [
-      "OL31996084M",
-      "OL31996083M",
-      "OL29857928M",
-      "OL28266136M"
-    ],
-    "first_publish_year": 2020,
-    "key": "/works/OL20873362W",
-    "number_of_pages_median": 472,
-    "title": "28 Summers"
-  },
-  {
-    "author_name": [
       "Jessica Townsend"
     ],
     "edition_key": [
@@ -42863,6 +42862,21 @@
     "key": "/works/OL20660519W",
     "number_of_pages_median": 392,
     "title": "Hollowpox the hunt for Morrigan crow"
+  },
+  {
+    "author_name": [
+      "Elin Hilderbrand"
+    ],
+    "edition_key": [
+      "OL31996084M",
+      "OL31996083M",
+      "OL29857928M",
+      "OL28266136M"
+    ],
+    "first_publish_year": 2020,
+    "key": "/works/OL20873362W",
+    "number_of_pages_median": 472,
+    "title": "28 Summers"
   },
   {
     "author_name": [
@@ -45475,6 +45489,20 @@
   },
   {
     "author_name": [
+      "James McBride"
+    ],
+    "edition_key": [
+      "OL27924099M",
+      "OL32391298M",
+      "OL31860448M"
+    ],
+    "first_publish_year": 2020,
+    "key": "/works/OL20650889W",
+    "number_of_pages_median": 544,
+    "title": "Deacon King Kong"
+  },
+  {
+    "author_name": [
       "Charity Ferrell"
     ],
     "edition_key": [
@@ -45487,20 +45515,6 @@
     "first_publish_year": 2020,
     "key": "/works/OL26051314W",
     "title": "Just Friends"
-  },
-  {
-    "author_name": [
-      "James McBride"
-    ],
-    "edition_key": [
-      "OL27924099M",
-      "OL32391298M",
-      "OL31860448M"
-    ],
-    "first_publish_year": 2020,
-    "key": "/works/OL20650889W",
-    "number_of_pages_median": 544,
-    "title": "Deacon King Kong"
   },
   {
     "author_name": [
@@ -47355,6 +47369,24 @@
   },
   {
     "author_name": [
+      "Hari Kunzru"
+    ],
+    "edition_key": [
+      "OL28331779M",
+      "OL34764368M",
+      "OL30619516M",
+      "OL29484462M",
+      "OL29852128M",
+      "OL34085313M",
+      "OL32584812M"
+    ],
+    "first_publish_year": 2020,
+    "key": "/works/OL20913884W",
+    "number_of_pages_median": 304,
+    "title": "Red Pill"
+  },
+  {
+    "author_name": [
       "Roshani Chokshi"
     ],
     "edition_key": [
@@ -47374,24 +47406,6 @@
     "key": "/works/OL20755966W",
     "number_of_pages_median": 432,
     "title": "The Silvered Serpents"
-  },
-  {
-    "author_name": [
-      "Hari Kunzru"
-    ],
-    "edition_key": [
-      "OL28331779M",
-      "OL34764368M",
-      "OL30619516M",
-      "OL29484462M",
-      "OL29852128M",
-      "OL34085313M",
-      "OL32584812M"
-    ],
-    "first_publish_year": 2020,
-    "key": "/works/OL20913884W",
-    "number_of_pages_median": 304,
-    "title": "Red Pill"
   },
   {
     "author_name": [
@@ -48291,24 +48305,29 @@
   },
   {
     "author_name": [
-      "Marissa Meyer"
+      "Abigail Dean"
     ],
     "edition_key": [
-      "OL50661666M",
-      "OL50654521M",
-      "OL39655606M",
-      "OL35655434M",
-      "OL30796386M",
-      "OL36672708M",
-      "OL30884714M",
-      "OL29889736M",
-      "OL28194667M",
-      "OL28156792M"
+      "OL32758327M",
+      "OL42191557M",
+      "OL44181763M",
+      "OL46543335M",
+      "OL31985933M",
+      "OL35843916M",
+      "OL36100095M",
+      "OL42191526M",
+      "OL42191462M",
+      "OL34772390M",
+      "OL34188351M",
+      "OL34157088M",
+      "OL31894727M",
+      "OL31828171M",
+      "OL29500234M"
     ],
     "first_publish_year": 2020,
-    "key": "/works/OL20800241W",
-    "number_of_pages_median": 400,
-    "title": "Instant Karma"
+    "key": "/works/OL21685700W",
+    "number_of_pages_median": 352,
+    "title": "Girl A"
   },
   {
     "author_name": [
@@ -54651,20 +54670,6 @@
   },
   {
     "author_name": [
-      "Jennifer L. Holm"
-    ],
-    "edition_key": [
-      "OL34176632M",
-      "OL32267663M",
-      "OL32029867M"
-    ],
-    "first_publish_year": 2021,
-    "key": "/works/OL24229192W",
-    "number_of_pages_median": 272,
-    "title": "The Lion of Mars"
-  },
-  {
-    "author_name": [
       "Elliot Ackerman",
       "James Stavridis"
     ],
@@ -54677,6 +54682,20 @@
     "key": "/works/OL21964323W",
     "number_of_pages_median": 234,
     "title": "2034"
+  },
+  {
+    "author_name": [
+      "Jennifer L. Holm"
+    ],
+    "edition_key": [
+      "OL34176632M",
+      "OL32267663M",
+      "OL32029867M"
+    ],
+    "first_publish_year": 2021,
+    "key": "/works/OL24229192W",
+    "number_of_pages_median": 272,
+    "title": "The Lion of Mars"
   },
   {
     "author_name": [
@@ -57183,16 +57202,21 @@
   },
   {
     "author_name": [
-      "Helen Rutter"
+      "Robin Cook",
+      "Scott Brick"
     ],
     "edition_key": [
-      "OL32601405M",
-      "OL29467921M"
+      "OL32882240M",
+      "OL34707123M",
+      "OL35445262M",
+      "OL33955551M",
+      "OL32461023M",
+      "OL33959427M"
     ],
     "first_publish_year": 2021,
-    "key": "/works/OL21666441W",
-    "number_of_pages_median": 308,
-    "title": "Boy Who Made Everyone Laugh"
+    "key": "/works/OL24498013W",
+    "number_of_pages_median": 432,
+    "title": "Viral"
   },
   {
     "author_name": [
@@ -70605,6 +70629,19 @@
   },
   {
     "author_name": [
+      "John Grisham"
+    ],
+    "edition_key": [
+      "OL47318271M",
+      "OL47320869M"
+    ],
+    "first_publish_year": 2023,
+    "key": "/works/OL34956934W",
+    "number_of_pages_median": 368,
+    "title": "The Exchange"
+  },
+  {
+    "author_name": [
       "January Rayne",
       "Dallas Ann"
     ],
@@ -70627,19 +70664,6 @@
     "first_publish_year": 2023,
     "key": "/works/OL36491141W",
     "title": "Cicatrices Marcadas : (Perfectly Imperfect Mafia - en Espa\u00f1ol N\u00ba 1)"
-  },
-  {
-    "author_name": [
-      "John Grisham"
-    ],
-    "edition_key": [
-      "OL47318271M",
-      "OL47320869M"
-    ],
-    "first_publish_year": 2023,
-    "key": "/works/OL34956934W",
-    "number_of_pages_median": 368,
-    "title": "The Exchange"
   },
   {
     "author_name": [
@@ -73680,17 +73704,6 @@
   },
   {
     "author_name": [
-      "Emily H. Wilson"
-    ],
-    "edition_key": [
-      "OL48684507M"
-    ],
-    "first_publish_year": 2023,
-    "key": "/works/OL36045605W",
-    "title": "Inanna"
-  },
-  {
-    "author_name": [
       "Douglas Preston",
       "Lincoln Child"
     ],
@@ -73706,6 +73719,17 @@
     "key": "/works/OL34024641W",
     "number_of_pages_median": 408,
     "title": "Dead Mountain"
+  },
+  {
+    "author_name": [
+      "Emily H. Wilson"
+    ],
+    "edition_key": [
+      "OL48684507M"
+    ],
+    "first_publish_year": 2023,
+    "key": "/works/OL36045605W",
+    "title": "Inanna"
   },
   {
     "author_name": [
@@ -81678,6 +81702,19 @@
   },
   {
     "author_name": [
+      "Wally Lamb"
+    ],
+    "edition_key": [
+      "OL59283614M",
+      "OL57571392M"
+    ],
+    "first_publish_year": 2025,
+    "key": "/works/OL42428586W",
+    "number_of_pages_median": 451,
+    "title": "The River Is Waiting"
+  },
+  {
+    "author_name": [
       "Charlotte McConaghy"
     ],
     "edition_key": [
@@ -81725,19 +81762,6 @@
     "key": "/works/OL42394591W",
     "number_of_pages_median": 416,
     "title": "The Emperor of Gladness"
-  },
-  {
-    "author_name": [
-      "Wally Lamb"
-    ],
-    "edition_key": [
-      "OL59283614M",
-      "OL57571392M"
-    ],
-    "first_publish_year": 2025,
-    "key": "/works/OL42428586W",
-    "number_of_pages_median": 451,
-    "title": "The River Is Waiting"
   },
   {
     "author_name": [
@@ -82715,18 +82739,6 @@
   },
   {
     "author_name": [
-      "James Dashner"
-    ],
-    "edition_key": [
-      "OL60154027M"
-    ],
-    "first_publish_year": 2025,
-    "key": "/works/OL44039764W",
-    "number_of_pages_median": 264,
-    "title": "The infinite glade"
-  },
-  {
-    "author_name": [
       "Emily St James"
     ],
     "edition_key": [
@@ -82736,6 +82748,18 @@
     "key": "/works/OL42426895W",
     "number_of_pages_median": 368,
     "title": "Woodworking"
+  },
+  {
+    "author_name": [
+      "James Dashner"
+    ],
+    "edition_key": [
+      "OL60154027M"
+    ],
+    "first_publish_year": 2025,
+    "key": "/works/OL44039764W",
+    "number_of_pages_median": 264,
+    "title": "The infinite glade"
   },
   {
     "author_name": [
