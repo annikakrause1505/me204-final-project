@@ -1,7 +1,5 @@
 # ME204 Final Project
 
-[use just and index.md if working solo, but if working with others, add links to their invidiual pages like below]
-
 - [annikakrause1505](./annikakrause1505.md)
 # Have Fiction Books Gotten Longer? A 10-Year Look (2016–2025)
 
@@ -12,6 +10,7 @@
 
 # Finding 1:
 ## Looking at median page count year by year, the line shows no significant movement. A linear regression across the decade shows a slope of just 1.4 pages per year, with an R² of 0.08 and a p-value of 0.43, far from statistically significant. The data does not support the idea that fiction books have gotten meaningfully longer over this period.
+![Median fiction page count by year, 2016-2025](images/median_trend.png)
 
 # Finding 2: 
 ## If we split the decade into two halves and compare them seperatley, we see different results. Median page count rose from 352 pages (2016–2020) to 368 pages (2021–2025). That is a sixteen page increase that is highly statistically significant with a Mann-Whitney value of p = 0.0009. This suggests fiction books did get longer over the decade, but the change happened as more of a shift between periods than a steady climb.
