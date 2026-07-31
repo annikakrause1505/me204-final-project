@@ -19,5 +19,5 @@ I used Open Library's API to gather my data. It did not require a key.
 
 ## How to reproduce
 
-To access Open Library's API, no key is required. The imports I used were OS, requests, time, json, pandas, mannwhitneyu, scripy, matplotlib, and linregress.
+To access Open Library's API, no key is required. The imports I used were OS, requests, time, json, pandas, mannwhitneyu, scripy, matplotlib, and linregress. The files should be run in numerical order, starting with notebook 1 and ending with notebook 3.
 
