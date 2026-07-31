@@ -7,8 +7,7 @@
 
 
 
-Remove the unused row if you work alone.
-Replace every `[bracketed]` placeholder once you fill it in.
+
 
 ## Overview
 
