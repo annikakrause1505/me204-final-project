@@ -1,7 +1,7 @@
 # ME204 Final Project
 
 - [annikakrause1505](./annikakrause1505.md)
-# Have Fiction Books Gotten Longer? A 10-Year Look (2016–2025)
+# Have Fiction Books Gotten Longer? A 10 Year Look (2016–2025)
 
 # The Question: 
 ## Have fiction books been increasing in page length over the last 10 years?

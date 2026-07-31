@@ -1,10 +1,10 @@
-# ME204 Final Project: [Your project title]
+# ME204 Final Project: [Have Fiction Books Gotten Longer? A 10 Year Look]
 
 
 | GitHub username                           | LSE ID            |
 | ----------------------------------------- | ----------------- |
-| `[username]`                              | `[LSE ID]`        |
-| `[second username, if working in a pair]` | `[second LSE ID]` |
+| `annikakrause1505`                        |   `250084857`     |
+
 
 
 Remove the unused row if you work alone.
@@ -12,13 +12,13 @@ Replace every `[bracketed]` placeholder once you fill it in.
 
 ## Overview
 
-[State your focused project question in one or two sentences.]
+The question I looked to answer was 'Have fiction books been increasing in length over the last ten years'?
 
 ## Data sources
 
-[Name each main API or web scraping source, and note any supplementary static files.]
+I used Open Library's API to gather my data. It did not require a key.
 
 ## How to reproduce
 
-[Tell your reader how to get keys, which python commands to run and any other things they need to know when replicating your work (imagine they are people with similar technical skills as yours)]
+To access Open Library's API, no key is required. The imports I used were OS, requests, time, json, pandas, mannwhitneyu, scripy, matplotlib, and linregress.
 
